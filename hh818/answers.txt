@@ -1,0 +1,20 @@
+Answers
+
+IPython
+1. Import os
+    Os.path.abspath?
+    /usr/lib/python2.7/posixpath.py
+
+2. %cd /etc
+    num = !ls -l | wc -l
+    num = int(num[0])
+
+3. print num*num
+    54289
+
+4. x**2 is the fastest. 259 nanoseconds vs. 262 nanoseconds vs. 11.2 microseconds
+
+5. 24
+
+PyDev
+5. Hello World!
